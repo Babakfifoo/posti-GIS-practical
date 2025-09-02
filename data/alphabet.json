@@ -1,0 +1,30 @@
+{
+    "C": {
+        "0":  {"vec": [-1,0],"type": "body"},
+        "1":  {"vec": [0,-2],"type": "body"},
+        "2":  {"vec": [1,0],"type": "body"},
+        "3":  {"vec": [1,2],"type": "move"}
+    },
+    "Y": {
+            "0": {"vec": [-0.5,-1],"type": "body"},
+            "1": {"vec": [-0.5,1],"type": "body"},
+            "2": {"vec": [0.5,-1],"type": "body"},
+            "3": {"vec": [0,-1],"type": "body"},
+            "4": {"vec": [1.5,2],"type": "move"}
+        },
+    "L": {
+            "0": {"vec": [-1,0],"type": "move"},
+            "1": {"vec": [0,-2],"type": "body"},
+            "2": {"vec": [1,0],"type": "body"},
+            "3": {"vec": [1,2],"type": "move"}
+        },
+    "E": {
+            "0": {"vec": [-1,0],"type": "move"},
+            "1": {"vec": [0,-1],"type": "body"},
+            "2": {"vec": [1,0],"type": "body"},
+            "3": {"vec": [-1,0],"type": "body"},
+            "4": {"vec": [0,-1],"type": "body"},
+            "5": {"vec": [1,0],"type": "body"},
+            "6": {"vec": [1,2],"type": "move"}
+        }
+}
